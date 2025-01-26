@@ -1,7 +1,7 @@
 # Tarea
 
 ## Elegí estas SGBD 
- MySQL,  
+ *MySQL, MongoDB, Neo4j, Amazon RDS y Cassandra.*
 
 ## Preguntas
 ### MySQL
