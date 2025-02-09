@@ -11,3 +11,11 @@ Una empresa necesita organizar la siguiente información referente a su organiza
 ***Construye a través de diagrams.io.***
 
 ---
+	
+ <details>
+ <summary>Respuesta</summary>
+   <div align="center">
+    
+  ![image](https://github.com/WhiteCascade/BAE/blob/main/Tareas/Unidad2/Unidad2-3/Images/ejercicio5.0.drawio.png)
+     </div>
+ </details>
