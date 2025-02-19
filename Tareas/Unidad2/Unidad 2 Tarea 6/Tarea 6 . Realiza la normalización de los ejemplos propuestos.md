@@ -16,7 +16,7 @@
 
     Verifica generando el modelo Entidad/Relación
  <details>
- <summary>Respuesta ✨</summary>
+ <summary>Respuesta </summary>
    <div align="center">
 
 ### 1FN (Primera Forma Normal):
@@ -61,7 +61,7 @@
 
     Verifica generando el modelo Entidad/Relación
  <details>
- <summary>Respuesta ✨</summary>
+ <summary>Respuesta </summary>
    <div align="center">
 
 ### 1. Primera Forma Normal (1FN)
@@ -132,7 +132,7 @@
 
     Verifica generando el modelo Entidad/Relación
  <details>
- <summary>Respuesta ✨</summary>
+ <summary>Respuesta </summary>
    <div align="center">
        
 ### 1. Primera Forma Normal (1FN)
@@ -176,7 +176,7 @@
 
     Verifica generando el modelo Entidad/Relación
  <details>
- <summary>Respuesta ✨</summary>
+ <summary>Respuesta </summary>
    <div align="center">
 
 
@@ -226,7 +226,7 @@
 
     Verifica generando el modelo Entidad/Relación
  <details>
- <summary>Respuesta ✨</summary>
+ <summary>Respuesta </summary>
    <div align="center">
        
  ### 1FN (Primera Forma Normal):
@@ -272,7 +272,7 @@
 
     Verifica generando el modelo Entidad/Relación
  <details>
- <summary>Respuesta ✨</summary>
+ <summary>Respuesta </summary>
    <div align="center">
 
 
@@ -319,7 +319,7 @@
 
     Verifica generando el modelo Entidad/Relación
  <details>
- <summary>Respuesta ✨</summary>
+ <summary>Respuesta </summary>
    <div align="center">
 
 ### 1FN (Primera Forma Normal):
@@ -361,7 +361,7 @@
 
     Verifica generando el modelo Entidad/Relación
  <details>
- <summary>Respuesta ✨</summary>
+ <summary>Respuesta </summary>
    <div align="center">
 
 ### 1FN (Primera Forma Normal):
@@ -405,7 +405,7 @@
 
     Verifica generando el modelo Entidad/Relación
  <details>
- <summary>Respuesta ✨</summary>
+ <summary>Respuesta </summary>
    <div align="center">
        
 ### 1FN (Primera Forma Normal):
@@ -448,7 +448,7 @@
 
     Verifica generando el modelo Entidad/Relación
  <details>
- <summary>Respuesta ✨</summary>
+ <summary>Respuesta </summary>
    <div align="center">
       
 ### 1FN (Primera Forma Normal):
