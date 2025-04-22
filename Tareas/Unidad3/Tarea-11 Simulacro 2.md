@@ -20,18 +20,28 @@ SELECT * FROM libro WHERE año_publicacion > 1950;
 
 -- Bibliotecarios con más de 3 años de antigüedad
 
+SELECT * FROM bibliotecario WHERE antiguedad > 3;
+
 -- Préstamos realizados en 2023
+
+SELECT * FROM prestamo  WHERE año_publicacion > 2023;
 
 -- Socios sin segundo apellido
 
+SELECT * FROM socio WHERE apellido2 IS NUll;
+
 -- Libros del género "Realismo mágico"
+
+SELECT * FROM libro WHERE genero > "Realismo magico"
 
 -- Préstamos no devueltos (fecha_devolucion IS NULL)
 
-
+SELECT * FROM prestamo  WHERE fecha_devolucion IS NULL;
 
 -- 2. Consultas Multitabla (WHERE) (8 consultas - 2.4 puntos)
 -- Préstamos con nombres de socio y libro (sin JOIN)
+
+SELECT s.nombre, l.titulo from libro l, prestamo p, socio s where l.id = p.id_libro and s.id = p.id_socio;
 
 -- Libros prestados a socios de Barcelona (sin JOIN)
 
